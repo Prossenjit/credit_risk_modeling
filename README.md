@@ -1,7 +1,7 @@
 # credit_risk_modeling
 Objective of this project is to calculate probability of default for a borrower and segregate potential defalters from non defaulters of a bank. The data used here is a actual bank's data without sensetive informations.
 
-This analysis includes roll rate analysis to select the time period to justify a defaulter, vintage analysis to select performance window, observation period analysis to select observation period.
+This analysis includes roll rate analysis to select the time frame to justify a defaulter, vintage analysis to select performance window, observation period analysis to select observation period.
 
 Exploratory data analysis has been performed to explore and get insights from the data which can be used to take necessary actions and valuable informations which can be used in model building.
 
