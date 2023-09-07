@@ -1,4 +1,4 @@
-# credit_risk_modeling
+# credit Risk Modeling
 # Please visit jupyter notebook to check out the whole analysis 
 Objective of this project is to calculate probability of default for a borrower and segregate potential defalters from non defaulters of a bank. The data used here is a actual bank's data without sensetive informations.
 
